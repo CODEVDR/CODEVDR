@@ -1,119 +1,182 @@
-<h1 align="center">Hi 👋, I'm V DURGESHWAR RAO</h1>
-<h3 align="center">DevOps Engineer & Full Stack Developer</h3>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=codevdr&label=Profile%20views&color=0e75b6&style=flat" alt="codevdr" />
-</p>
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codevdr&theme=onedark" alt="codevdr" /></a>
-</p>
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-    <img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?q=80&w=1280&auto=format&fit=crop" alt="DevOps Banner" width="800" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24c6dc&text=V%20DURGESHWAR%20RAO&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Native%20Builder&descSize=17&descAlignY=58" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%24+kubectl+apply+-f+dreams.yaml;%24+docker+build+-t+future+.;%24+terraform+apply+--auto-approve;%24+git+push+origin+main+%F0%9F%9A%80;Automating+everything.+Shipping+daily." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=CODEVDR&label=Profile%20views&color=24c6dc&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/CODEVDR?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="followers" />
+<img src="https://img.shields.io/github/stars/CODEVDR?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="stars" />
+
 </div>
 
-## 💼 Professional Summary
+<br/>
 
-DevOps engineer and full stack developer with expertise in cloud infrastructure, CI/CD pipelines, and microservices architecture. Passionate about building scalable and resilient systems with modern technologies.
+<!-- ===================== TERMINAL INTRO ===================== -->
+## `> whoami`
 
-## 🔭 Current Focus
+```bash
+┌──(codevdr㉿devops)-[~/profile]
+└─$ cat about.json
+```
 
-- Building cloud-native applications on AWS
-- Implementing Kubernetes-based microservices
-- Automating deployment pipelines with GitHub Actions and Jenkins
-- Working on various private repositories for enterprise solutions
+```json
+{
+  "name": "V Durgeshwar Rao",
+  "role": ["DevOps Engineer", "Full Stack Developer"],
+  "location": "India 🇮🇳",
+  "focus": ["Cloud Native", "Kubernetes", "CI/CD", "Microservices"],
+  "currently": "Building scalable & resilient systems on AWS",
+  "philosophy": "If you do it twice, automate it.",
+  "status": "Open to collaboration 🤝"
+}
+```
 
-## 🛠️ Tech Stack
+<br/>
 
-### DevOps & Cloud
+## `> ./current_focus.sh`
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</p>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-### Backend Development
+- ☁️ Building **cloud-native** applications on **AWS**
+- ☸️ Designing **Kubernetes-based** microservices
+- ⚙️ Automating pipelines with **GitHub Actions** & **Jenkins**
+- 🔐 Shifting security left with **DevSecOps**
+- 🔒 Working on private repositories for enterprise solutions
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</p>
+<br clear="right"/>
 
-### Frontend Development
-
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+<!-- ===================== TECH STACK ===================== -->
+## `> ls ~/tech-stack`
 
 <div align="center">
-    <img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=1280&auto=format&fit=crop" alt="Coding" width="600" />
+
+**☁️ DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,nginx,linux,bash&perline=10" alt="devops" />
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,express,django,fastapi&perline=10" alt="backend" />
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=10" alt="frontend" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,dynamodb,redis&perline=10" alt="db" />
+
+**🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,jira,figma,vscode,postman,grafana,prometheus&perline=10" alt="tools" />
+
 </div>
 
-### Database
+<br/>
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-ar21.svg" alt="dynamodb" width="70" height="40"/>
-</p>
-
-### Tools & Others
-
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-## 📊 GitHub Stats
+<!-- ===================== SNAKE ===================== -->
+## `> ./contributions --animate`
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codevdr&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="codevdr" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODEVDR/CODEVDR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CODEVDR/CODEVDR/output/github-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/CODEVDR/CODEVDR/output/github-snake-dark.svg" />
+</picture>
+
 </div>
+
+> 🐍 *The snake needs the workflow in `.github/workflows/snake.yml`. Run it once from the Actions tab.*
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## `> git log --stats`
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codevdr&show_icons=true&locale=en&theme=radical&count_private=true" alt="codevdr" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CODEVDR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&count_private=true&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEVDR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&langs_count=8" alt="langs" />
+
+<img src="https://streak-stats.demolab.com?user=CODEVDR&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEVDR&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="97%" />
+
 </div>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+## `> cat achievements.log`
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codevdr&theme=radical" alt="codevdr" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CODEVDR&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
+  </a>
 </div>
 
-## 💻 Private Projects
+<br/>
 
-I also work on several private repositories for enterprise clients and personal projects:
-
-- **Enterprise Microservices Platform**: A Kubernetes-based solution for financial services
-- **DevSecOps Pipeline Framework**: Custom CI/CD solutions for regulated industries
-- **Data Processing Pipelines**: Big data solutions using AWS services
-- **Internal Developer Platforms**: Custom tooling for development teams
+<!-- ===================== PRIVATE PROJECTS ===================== -->
+## `> ls -la ~/private-projects`
 
 <div align="center">
-    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1280&auto=format&fit=crop" alt="Cloud Computing" width="700" />
+
+| 🔒 Project | 📝 Description | 🧩 Stack |
+|:--|:--|:--|
+| **Enterprise Microservices Platform** | Kubernetes-based solution for financial services | `Kubernetes` `Docker` `AWS` |
+| **DevSecOps Pipeline Framework** | Custom CI/CD for regulated industries | `Jenkins` `GitHub Actions` `Ansible` |
+| **Data Processing Pipelines** | Big data solutions on AWS services | `Python` `AWS` `DynamoDB` |
+| **Internal Developer Platforms** | Custom tooling for development teams | `Node.js` `React` `Terraform` |
+
 </div>
 
-## 📫 Connect With Me
+> 🔐 *Enterprise code stays private, but the work is real, and it ships.*
 
-<p align="center">
-    <a href="https://linkedin.com/in/codevdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v durgeshwar rao" height="30" width="40" /></a>
-    <a href="https://instagram.com/vdr.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vdr.exe" height="30" width="40" /></a>
-    <a href="mailto:code.durgesh86@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/vdr"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vdr" /></a></p>
+<!-- ===================== PIPELINE ===================== -->
+## `> cat pipeline.yml`
+
+```yaml
+name: life-of-a-devops-engineer
+on: [coffee, bugs, deadlines]
+
+jobs:
+  build:
+    steps:
+      - plan:     "Think before you commit"
+      - code:     "Write clean, testable code"
+      - test:     "Break it before users do"
+      - containerize: "docker build -t app ."
+      - deploy:   "kubectl rollout status deploy/app"
+      - monitor:  "Prometheus + Grafana, always watching"
+      - repeat:   true
+```
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## `> ./connect.sh`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/codevdr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/vdr.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:code.durgesh86@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.buymeacoffee.com/vdr"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=%22Make+it+work.+Make+it+right.+Make+it+fast.%22;Thanks+for+stopping+by+%E2%9C%A8" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer" />
+
+</div>
