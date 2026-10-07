@@ -1,87 +1,97 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24c6dc&text=V%20DURGESHWAR%20RAO&fontColor=ffffff&fontSize=46&fontAlignY=36&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Native%20Builder&descSize=17&descAlignY=58" width="100%" alt="header" />
+![](https://profilekit.vercel.app/api/wave?text=V+DURGESHWAR+RAO&color=8b949e&waves=4&width=900&height=200&bg_color=161b22)
+![](https://profilekit.vercel.app/api/hero?name=currently+building&subtitle=scalable+cloud-native+systems+%E2%80%94+one+pipeline+at+a+time&bg=particles&theme=dark_dimmed&color=8b949e&width=900&height=180)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%24+kubectl+apply+-f+dreams.yaml;%24+docker+build+-t+future+.;%24+terraform+apply+--auto-approve;%24+git+push+origin+main+%F0%9F%9A%80;Automating+everything.+Shipping+daily." alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B949E&background=00000000&center=true&vCenter=true&width=620&lines=devops+engineer+%7C+full+stack+developer;automating+everything%2C+shipping+daily;kubernetes+%C2%B7+aws+%C2%B7+ci%2Fcd+%C2%B7+microservices;if+you+do+it+twice%2C+automate+it)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=CODEVDR&label=Profile%20views&color=24c6dc&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/CODEVDR?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="followers" />
-<img src="https://img.shields.io/github/stars/CODEVDR?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="stars" />
+[![GitHub](https://img.shields.io/badge/GitHub-CODEVDR-2b2f36?style=for-the-badge&logo=github&logoColor=adbac7&labelColor=2b2f36)](https://github.com/CODEVDR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2b2f36?style=for-the-badge&logo=linkedin&logoColor=8b949e&labelColor=2b2f36)](https://linkedin.com/in/codevdr)
+[![Email](https://img.shields.io/badge/Email-Contact-2b2f36?style=for-the-badge&logo=gmail&logoColor=8b949e&labelColor=2b2f36)](mailto:code.durgesh86@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-vdr.exe-2b2f36?style=for-the-badge&logo=instagram&logoColor=8b949e&labelColor=2b2f36)](https://instagram.com/vdr.exe)
 
 </div>
 
-<br/>
-
-<!-- ===================== TERMINAL INTRO ===================== -->
-## `> whoami`
-
-```bash
-┌──(codevdr㉿devops)-[~/profile]
-└─$ cat about.json
+```
+~/vdr
+$ whoami
+> V Durgeshwar Rao — DevOps Engineer & Full Stack Developer
+> currently building → cloud-native apps on AWS
+> currently learning  → platform engineering + DevSecOps at scale
 ```
 
-```json
-{
-  "name": "V Durgeshwar Rao",
-  "role": ["DevOps Engineer", "Full Stack Developer"],
-  "location": "India 🇮🇳",
-  "focus": ["Cloud Native", "Kubernetes", "CI/CD", "Microservices"],
-  "currently": "Building scalable & resilient systems on AWS",
-  "philosophy": "If you do it twice, automate it.",
-  "status": "Open to collaboration 🤝"
-}
-```
+## `// about`
 
-<br/>
+I'm a **DevOps engineer** and **full stack developer** who likes owning the whole path
+from `git push` to production. I build scalable, resilient systems with modern
+cloud-native tooling: containers, Kubernetes, infrastructure as code, and pipelines that
+deploy themselves. Not just clicking through a console and hoping it works.
 
-## `> ./current_focus.sh`
+![](https://profilekit.vercel.app/api/divider?style=wave&color=444c56&width=900&height=30)
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+## `// stack`
 
-- ☁️ Building **cloud-native** applications on **AWS**
-- ☸️ Designing **Kubernetes-based** microservices
-- ⚙️ Automating pipelines with **GitHub Actions** & **Jenkins**
-- 🔐 Shifting security left with **DevSecOps**
-- 🔒 Working on private repositories for enterprise solutions
+**Cloud & DevOps**  
+[![AWS](https://img.shields.io/badge/AWS-2b2f36?style=flat-square&logo=amazonwebservices&logoColor=8b949e)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-2b2f36?style=flat-square&logo=kubernetes&logoColor=8b949e)](#)
+[![Docker](https://img.shields.io/badge/Docker-2b2f36?style=flat-square&logo=docker&logoColor=8b949e)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2b2f36?style=flat-square&logo=jenkins&logoColor=8b949e)](#)
+[![Ansible](https://img.shields.io/badge/Ansible-2b2f36?style=flat-square&logo=ansible&logoColor=8b949e)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2b2f36?style=flat-square&logo=githubactions&logoColor=8b949e)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-2b2f36?style=flat-square&logo=nginx&logoColor=8b949e)](#)
+[![Linux](https://img.shields.io/badge/Linux-2b2f36?style=flat-square&logo=linux&logoColor=8b949e)](#)
 
-<br clear="right"/>
+**Backend**  
+[![Python](https://img.shields.io/badge/Python-2b2f36?style=flat-square&logo=python&logoColor=8b949e)](#)
+[![Java](https://img.shields.io/badge/Java-2b2f36?style=flat-square&logo=openjdk&logoColor=8b949e)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-2b2f36?style=flat-square&logo=nodedotjs&logoColor=8b949e)](#)
+[![Express](https://img.shields.io/badge/Express-2b2f36?style=flat-square&logo=express&logoColor=8b949e)](#)
+[![Django](https://img.shields.io/badge/Django-2b2f36?style=flat-square&logo=django&logoColor=8b949e)](#)
 
-<!-- ===================== TECH STACK ===================== -->
-## `> ls ~/tech-stack`
+**Frontend**  
+[![React](https://img.shields.io/badge/React-2b2f36?style=flat-square&logo=react&logoColor=8b949e)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-2b2f36?style=flat-square&logo=nextdotjs&logoColor=8b949e)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-2b2f36?style=flat-square&logo=react&logoColor=8b949e)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-2b2f36?style=flat-square&logo=javascript&logoColor=8b949e)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-2b2f36?style=flat-square&logo=tailwindcss&logoColor=8b949e)](#)
 
-<div align="center">
+**Databases**  
+[![MongoDB](https://img.shields.io/badge/MongoDB-2b2f36?style=flat-square&logo=mongodb&logoColor=8b949e)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b2f36?style=flat-square&logo=postgresql&logoColor=8b949e)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-2b2f36?style=flat-square&logo=mysql&logoColor=8b949e)](#)
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-2b2f36?style=flat-square&logo=amazondynamodb&logoColor=8b949e)](#)
 
-**☁️ DevOps & Cloud**
+**Tools**  
+[![Git](https://img.shields.io/badge/Git-2b2f36?style=flat-square&logo=git&logoColor=8b949e)](#)
+[![Jira](https://img.shields.io/badge/Jira-2b2f36?style=flat-square&logo=jira&logoColor=8b949e)](#)
+[![Figma](https://img.shields.io/badge/Figma-2b2f36?style=flat-square&logo=figma&logoColor=8b949e)](#)
+[![VS Code](https://img.shields.io/badge/VS%20Code-2b2f36?style=flat-square&logo=visualstudiocode&logoColor=8b949e)](#)
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,githubactions,nginx,linux,bash&perline=10" alt="devops" />
+![](https://profilekit.vercel.app/api/divider?style=wave&color=444c56&width=900&height=30)
 
-**⚙️ Backend**
+## `// selected work`
 
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,express,django,fastapi&perline=10" alt="backend" />
+- 🏦 **Enterprise Microservices Platform**  
+  Kubernetes-based solution for financial services.  
+  `Kubernetes` `Docker` `AWS` `Microservices`
 
-**🎨 Frontend**
+- 🛡️ **DevSecOps Pipeline Framework**  
+  Custom CI/CD solutions for regulated industries.  
+  `Jenkins` `GitHub Actions` `Ansible` `DevSecOps`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&perline=10" alt="frontend" />
+- 📊 **Data Processing Pipelines**  
+  Big data solutions built on AWS services.  
+  `Python` `AWS` `DynamoDB` `ETL`
 
-**🗄️ Databases**
+- 🧰 **Internal Developer Platforms**  
+  Custom tooling that makes development teams faster.  
+  `Node.js` `React` `Automation`
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,dynamodb,redis&perline=10" alt="db" />
+> 🔒 Enterprise work lives in private repositories.
 
-**🧰 Tools**
+![](https://profilekit.vercel.app/api/divider?style=wave&color=444c56&width=900&height=30)
 
-<img src="https://skillicons.dev/icons?i=git,github,jira,figma,vscode,postman,grafana,prometheus&perline=10" alt="tools" />
-
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE ===================== -->
-## `> ./contributions --animate`
+## `// activity`
 
 <div align="center">
 
@@ -91,92 +101,34 @@
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/CODEVDR/CODEVDR/output/github-snake-dark.svg" />
 </picture>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CODEVDR&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=8b949e&icon_color=8b949e&text_color=adbac7&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEVDR&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=8b949e&text_color=adbac7&langs_count=8" alt="langs" />
 
-> 🐍 *The snake needs the workflow in `.github/workflows/snake.yml`. Run it once from the Actions tab.*
-
-<br/>
-
-<!-- ===================== STATS ===================== -->
-## `> git log --stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CODEVDR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEVDR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&langs_count=8" alt="langs" />
-
-<img src="https://streak-stats.demolab.com?user=CODEVDR&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEVDR&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="97%" />
+<img src="https://streak-stats.demolab.com?user=CODEVDR&theme=dark&hide_border=true&background=161b22&ring=8b949e&fire=8b949e&currStreakLabel=adbac7&sideLabels=8b949e&currStreakNum=adbac7&sideNums=adbac7&dates=6e7681" alt="streak" />
 
 </div>
 
-<br/>
+![](https://profilekit.vercel.app/api/divider?style=wave&color=444c56&width=900&height=30)
 
-<!-- ===================== TROPHIES ===================== -->
-## `> cat achievements.log`
+## `// currently`
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CODEVDR&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ===================== PRIVATE PROJECTS ===================== -->
-## `> ls -la ~/private-projects`
-
-<div align="center">
-
-| 🔒 Project | 📝 Description | 🧩 Stack |
-|:--|:--|:--|
-| **Enterprise Microservices Platform** | Kubernetes-based solution for financial services | `Kubernetes` `Docker` `AWS` |
-| **DevSecOps Pipeline Framework** | Custom CI/CD for regulated industries | `Jenkins` `GitHub Actions` `Ansible` |
-| **Data Processing Pipelines** | Big data solutions on AWS services | `Python` `AWS` `DynamoDB` |
-| **Internal Developer Platforms** | Custom tooling for development teams | `Node.js` `React` `Terraform` |
-
-</div>
-
-> 🔐 *Enterprise code stays private, but the work is real, and it ships.*
-
-<br/>
-
-<!-- ===================== PIPELINE ===================== -->
-## `> cat pipeline.yml`
-
-```yaml
-name: life-of-a-devops-engineer
-on: [coffee, bugs, deadlines]
-
-jobs:
-  build:
-    steps:
-      - plan:     "Think before you commit"
-      - code:     "Write clean, testable code"
-      - test:     "Break it before users do"
-      - containerize: "docker build -t app ."
-      - deploy:   "kubectl rollout status deploy/app"
-      - monitor:  "Prometheus + Grafana, always watching"
-      - repeat:   true
+```
+learning   → platform engineering, DevSecOps at scale
+building   → cloud-native apps, Kubernetes microservices
+exploring  → GitOps, observability, internal developer platforms
 ```
 
-<br/>
+[![](https://profilekit.vercel.app/api/constellation?text=LET%27S+BUILD+SOMETHING&color=8b949e&width=900&height=180)](#)
 
-<!-- ===================== CONNECT ===================== -->
-## `> ./connect.sh`
+## `// connect`
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-CODEVDR-2b2f36?style=for-the-badge&logo=github&logoColor=adbac7&labelColor=2b2f36)](https://github.com/CODEVDR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2b2f36?style=for-the-badge&logo=linkedin&logoColor=8b949e&labelColor=2b2f36)](https://linkedin.com/in/codevdr)
+[![Email](https://img.shields.io/badge/Email-Contact-2b2f36?style=for-the-badge&logo=gmail&logoColor=8b949e&labelColor=2b2f36)](mailto:code.durgesh86@gmail.com)
+[![Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-2b2f36?style=for-the-badge&logo=buymeacoffee&logoColor=8b949e&labelColor=2b2f36)](https://www.buymeacoffee.com/vdr)
 
-<a href="https://linkedin.com/in/codevdr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/vdr.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:code.durgesh86@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.buymeacoffee.com/vdr"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=CODEVDR&label=Profile%20Views&color=444c56&style=flat-square)
 
-<br/><br/>
+`plan.` `build.` `deploy.` `automate.`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=%22Make+it+work.+Make+it+right.+Make+it+fast.%22;Thanks+for+stopping+by+%E2%9C%A8" alt="footer typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer" />
-
-</div>
+![](https://profilekit.vercel.app/api/wave?text=&color=444c56&waves=3&width=900&height=90)
