@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Hi, I'm V Durgeshwar Rao, Full Stack Developer and AI Engineer from Odisha, India">
+<defs>
+  <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#12082B"/><stop offset="1" stop-color="#2B1766"/>
+  </linearGradient>
+  <linearGradient id="haccent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#C084FC"/>
+  </linearGradient>
+</defs>
+<rect width="1000" height="320" rx="24" fill="url(#hbg)"/>
+<circle cx="900" cy="40" r="170" fill="#8B5CF6" opacity="0.18"/>
+<circle cx="980" cy="300" r="120" fill="#C084FC" opacity="0.14"/>
+<rect x="64" y="52" width="72" height="6" rx="3" fill="url(#haccent)"/>
+<text x="64" y="112" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" fill="#C4B5FD">Hi, I'm</text>
+<text x="64" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" fill="#FFFFFF">V Durgeshwar Rao</text>
+<text x="64" y="228" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#DDD6FE">Full Stack Developer and AI Engineer</text>
+<text x="64" y="258" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#A89BD6">Building scalable web apps and LLM-powered tools.</text>
+<text x="64" y="290" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8F80C4">CodeWithVDR  |  Odisha, India</text>
+<g transform="translate(690,64)">
+  <rect width="270" height="192" rx="14" fill="#0B0520" stroke="#6D45D9" stroke-width="1.5"/>
+  <circle cx="22" cy="22" r="5" fill="#C084FC"/><circle cx="40" cy="22" r="5" fill="#8B5CF6"/><circle cx="58" cy="22" r="5" fill="#5B3AC4"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14">
+    <text x="20" y="62" fill="#C084FC">const <tspan fill="#F5F3FF">vdr</tspan> <tspan fill="#A89BD6">= {</tspan></text>
+    <text x="38" y="88" fill="#A78BFA">role: <tspan fill="#F5F3FF">'Full Stack + AI'</tspan>,</text>
+    <text x="38" y="112" fill="#A78BFA">stack: <tspan fill="#F5F3FF">['Next.js', 'AWS']</tspan>,</text>
+    <text x="38" y="136" fill="#A78BFA">next: <tspan fill="#F5F3FF">'build it'</tspan>,</text>
+    <text x="20" y="160" fill="#A89BD6">};<tspan fill="#C084FC" dx="6">_</tspan>
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.99;1" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</g>
+</svg>
